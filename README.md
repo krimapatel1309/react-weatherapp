@@ -1,4 +1,4 @@
-open the site in chrome and go to site-setting then find and click insecure content then simply allow it, to see this demo website otherwise it will just keep on loading just because api used is non https and you are accessing this from https website. ---OR--- simple disable protection for "https://jay-react-weatherapp.netlify.app/" for this particular website.<hr />
+open the site in chrome and go to site-setting then find and click insecure content then simply allow it, to see this demo website otherwise it will just keep on loading just because api used is non https and you are accessing this from https website. ---OR--- simple disable protection for "https://krima-react-weatherapp.netlify.app/" for this particular website.<hr />
 
 # Getting Started with Create React App
 
