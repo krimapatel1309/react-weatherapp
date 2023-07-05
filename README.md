@@ -2,9 +2,6 @@ open the site in chrome and go to site-setting then find and click insecure cont
 
 # Getting Started with Create React App
 
-## WEATHER app is live [CLICK HERE](https://jay-react-weatherapp.netlify.app/) to test it.
-<hr>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
